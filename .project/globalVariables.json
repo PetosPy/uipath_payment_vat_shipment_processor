@@ -1,0 +1,66 @@
+[
+  {
+    "Constant": false,
+    "Name": "PurchasePrice",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": true,
+    "Name": "VATaxRate",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "0.2",
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "TotalPurchaseVAT",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": true,
+    "Name": "RegularDiscount",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "5.5",
+    "IsLiteral": false
+  },
+  {
+    "Constant": true,
+    "Name": "PremiumDiscount",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "9.5",
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "PremiumTotalAfterShipping",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "RegularTotalAfterShipping",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": true,
+    "Name": "ShippingCosts",
+    "TypeFullyQualifiedName": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "50",
+    "IsLiteral": true
+  }
+]
